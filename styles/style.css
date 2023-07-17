@@ -144,12 +144,115 @@
     margin-bottom: 128px;
     display: flex;
     justify-content: center;
-    
-    
+
+
 }
 
 .insta-flower {
     width: 220px;
     margin-right: 24px;
+
+}
+
+.latest-deals {
+    margin-bottom: 128px;
+    text-align: center;
+    border: 2px solid black;
+    width: 950px;
+    margin-left: 272px;
+    border-radius: 8px;
+    background: url( ../images/Rectangle\ 9.png), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+
+}
+
+.deal-title {
+    font-size: 40px;
+    color: #272727;
+    font-weight: 800;
+    margin-top: 121px;
+}
+
+.input {
+    width: 400px;
+    padding: 15px 10px 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+    background: #FFF;
+    margin-bottom: 121px;
+}
+
+.btn {
+    padding: 12px;
+    border-radius: 10px;
+    background: #E55473;
+    border: 0;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+
+
+.deal-des-2 {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 16px 0 48px 0;
+}
+
+.footer{
+    text-align: center;
+    background-color: #111010;
+    padding: 150px 0;
     
 }
+
+.footer-title{
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.shop{
+    color: #ffffff;
+}
+
+.footer-des{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 32px;
+}
+
+.copyright{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.form{
+    margin-bottom: 200px;
+    text-align: center;
+}
+
+.input-value{
+    width: 400px;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.input-area{
+    padding: 20px;
+    font-size: 19px;
+    margin-bottom: 20px;
+}
+
+.Contact{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
